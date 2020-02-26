@@ -6,20 +6,20 @@
   "details": {
     "steps": [
       {
-        "title": "Step 0: Getting Started",
-        "text": "setup.md"
+        "title": "Step 1: Getting Started",
+        "text": "steps/setup.md"
       },
       {
-        "title": "Step 1: Build a Perceptron in Keras",
-        "text": "perceptron.md"
+        "title": "Step 2: Build a Perceptron in Keras",
+        "text": "steps/perceptron.md"
       }
     ],
     "intro": {
       "courseData": "setup.sh",
-      "text": "intro.md"
+      "text": "steps/intro.md"
     },
     "finish": {
-      "text": "finish.md"
+      "text": "steps/finish.md"
     }
   },
   "environment": {
