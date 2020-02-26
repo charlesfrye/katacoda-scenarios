@@ -6,6 +6,10 @@
   "details": {
     "steps": [
       {
+        "title": "Step 0: Getting Started",
+        "text": "setup.md"
+      },
+      {
         "title": "Step 1: Build a Perceptron in Keras",
         "text": "perceptron.md"
       }
