@@ -1,6 +1,6 @@
 {
   "title": "Keras: Build and Debug a Simple Neural Network",
-  "description": "Introduction to neural networks focusing on building and debugging a fully-connected network, aka a multi-layer perceptron.",
+  "description": "Introduction to neural networks by building and debugging a simple model, the multi-layer perceptron.",
   "difficulty": "Beginner",
   "time": "90 minutes",
   "details": {
