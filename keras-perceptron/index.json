@@ -26,7 +26,7 @@
     "client": [
       {
         "file": "src/perceptron.py",
-        "target": "~/src"
+        "target": "/root"
       }
     ]
   },
