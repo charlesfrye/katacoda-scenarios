@@ -24,8 +24,10 @@
   },
   "assets": {
     "client": [
-        "file": "src/*",
+      {
+        "file": "src/perceptron.py",
         "target": "~/src"
+      }
     ]
   },
   "environment": {
