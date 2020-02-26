@@ -22,6 +22,12 @@
       "text": "steps/finish.md"
     }
   },
+  "assets": {
+    "client": [
+        "file": "src/*",
+        "target": "~/src"
+    ]
+  },
   "environment": {
     "uilayout": "editor-terminal",
     "showdashboard": true,
