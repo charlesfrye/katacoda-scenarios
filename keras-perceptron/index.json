@@ -20,15 +20,15 @@
     },
     "finish": {
       "text": "steps/finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "*",
+          "target": "~/"
+        }
+      ]
     }
-  },
-  "assets": {
-    "client": [
-      {
-        "file": "*",
-        "target": "~/"
-      }
-    ]
   },
   "environment": {
     "uilayout": "editor-terminal",
