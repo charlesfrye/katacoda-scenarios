@@ -11,6 +11,7 @@
       }
     ],
     "intro": {
+      "courseData": "setup_jupyter.sh",
       "text": "intro.md"
     },
     "finish": {
