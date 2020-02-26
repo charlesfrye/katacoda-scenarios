@@ -28,6 +28,12 @@
         "file": "src/perceptron.py",
         "target": "~/"
       }
+    ],
+    "host01": [
+      {
+        "file": "*",
+        "target": "/root"
+      }
     ]
   },
   "environment": {
