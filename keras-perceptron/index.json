@@ -18,8 +18,12 @@
         "text": "steps/03_perceptron-start.md"
       },
       {
-        "title": "Step 4: A Better Perceptron in Keras",
+        "title": "Step 4: A Better Perceptron",
         "text": "steps/04_perceptron.md"
+      },
+      {
+        "title": "Step 5: Normalizing Data",
+        "text": "steps/04_perceptron-normalize.md"
       }
     ],
     "intro": {
