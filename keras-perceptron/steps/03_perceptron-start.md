@@ -77,6 +77,11 @@ When it hits 60,000, we've shown the network all of the data,
 and we say that one _epoch_ has passed.
 `Keras` will stop training our model once enough epochs have passed.
 
+If you'd like to view the outputs in a graphical interface,
+courtesy of `wandb`, click the link with the rocket next to it
+near the top of the output or,
+once the run has finished, the link in the final line of the output.
+
 How well is the algorithm doing? (Hint: look at the accuracy).
 How well do you think you might do by guessing randomly?
 What about by always guessing 0?
