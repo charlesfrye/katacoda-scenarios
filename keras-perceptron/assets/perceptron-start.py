@@ -2,7 +2,7 @@ import tensorflow as tf
 import wandb
 
 # logging code
-run = wandb.init()
+run = wandb.init(anonymous="must")
 config = run.config
 
 # load data
