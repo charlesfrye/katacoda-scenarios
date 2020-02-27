@@ -15,7 +15,7 @@
       },
       {
         "title": "Step 3: A Perceptron in Keras",
-        "text": "steps/03_digits.md"
+        "text": "steps/03_perceptron-start.md"
       },
       {
         "title": "Step 4: A Better Perceptron in Keras",
