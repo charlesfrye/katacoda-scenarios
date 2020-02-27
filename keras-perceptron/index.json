@@ -7,11 +7,19 @@
     "steps": [
       {
         "title": "Step 1: Getting Started",
-        "text": "steps/setup.md"
+        "text": "steps/01_setup.md"
       },
       {
-        "title": "Step 2: Build a Perceptron in Keras",
-        "text": "steps/perceptron.md"
+        "title": "Step 2: Digit Recognition",
+        "text": "steps/02_digits.md"
+      },
+      {
+        "title": "Step 3: A Perceptron in Keras",
+        "text": "steps/03_digits.md"
+      },
+      {
+        "title": "Step 4: A Better Perceptron in Keras",
+        "text": "steps/04_perceptron.md"
       }
     ],
     "intro": {
