@@ -1,4 +1,4 @@
-## Making a Better Perceptron
+## `softmax` for Fun and Profit
 
 You probably found that your perceptron didn't work very well:
 that it was performing only a little better than chance (10%).

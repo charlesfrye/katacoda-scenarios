@@ -24,6 +24,10 @@
       {
         "title": "Step 5: Normalizing Data",
         "text": "steps/05_perceptron-normalize.md"
+      },
+      {
+        "title": "Step 6: Testing the Model",
+        "text": "steps/06_predict.md"
       }
     ],
     "intro": {

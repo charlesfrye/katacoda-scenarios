@@ -1,3 +1,5 @@
+## Hello, World of Deep Learning!
+
 First, we need to familiarize ourselves with what goes into our network.
 
 In Jupyter, open up `digits.ipynb`.
