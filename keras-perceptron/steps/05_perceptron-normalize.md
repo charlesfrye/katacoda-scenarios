@@ -1,3 +1,5 @@
+## The Importance of Being Normal
+
 Even though the model accuracy was quite high,
 it can still be made higher.
 
@@ -34,4 +36,13 @@ from ~89% to about 93%.
 While that may seem modest, it means that for every 3 mistakes
 the un-normalized model makes, the normalized model makes only 2.
 In serious applications, this can mean
-saved lives, substantial cost savings, and even more just outcomes.
+saved lives or substantial cost savings.
+
+You may have noticed an extra line at the end:
+`model.save`.
+This line makes your model portable
+by saving all the parameters,
+the weights and biases,
+into a file.
+Head to the next step to load this file
+and take a look at the model predictions.

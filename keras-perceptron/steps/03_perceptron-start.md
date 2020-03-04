@@ -18,7 +18,7 @@ That number is called the _bias_.
 Then, most perceptron units apply some function
 to their outputs:
 throwing out negative values,
-applying a threshold,
+squeezing the numbers between 0 and 1,
 or something like that.
 
 The process of "training" a perceptron to perform a task

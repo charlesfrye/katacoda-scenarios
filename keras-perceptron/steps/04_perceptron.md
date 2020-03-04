@@ -1,3 +1,5 @@
+## Making a Better Perceptron
+
 You probably found that your perceptron didn't work very well:
 that it was performing only a little better than chance (10%).
 
@@ -8,6 +10,7 @@ Right now, they are just weighted sums of the inputs,
 and there is nothing stopping them from being negative or from being very large.
 
 But if we look at the desired outputs,
+for example using `digits.ipynb`,
 we'll see that the correct answer is always a 1 in one place
 and zeroes everywhere else.
 We'd like our outputs to look more like that:
