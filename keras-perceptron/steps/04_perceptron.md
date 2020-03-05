@@ -30,7 +30,7 @@ which means we can interpret them as probabilities:
 for a well-trained model,
 the output of neuron 3 is the probability that the input is a 3.
 
-With this new type of outputs, we need a new type of `loss`.
+With this new type of output, we need a new type of `loss`.
 If you check out `model.compile`, you'll see that now `loss='categorical_crossentropy'`.
 This loss is more complicated than just the mean squared error,
 but in short it's big whenever we have a small output for the correct answer:

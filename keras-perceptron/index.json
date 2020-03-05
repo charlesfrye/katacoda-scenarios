@@ -2,7 +2,7 @@
   "title": "Keras: Build and Debug a Simple Neural Network",
   "description": "Introduction to neural networks by building and debugging a simple model, the multi-layer perceptron.",
   "difficulty": "Beginner",
-  "time": "90 minutes",
+  "time": "42 minutes",
   "details": {
     "steps": [
       {
@@ -28,7 +28,20 @@
       {
         "title": "Step 6: Testing the Model",
         "text": "steps/06_predict.md"
+      },
+      {
+        "title": "Step 7: The Multi-Layer Perceptron",
+        "text": "steps/07_mlp.md"
+      },
+      {
+        "title": "Step 8: Better MLPs with Better Activations",
+        "text": "steps/08_mlp-improved.md"
+      },
+      {
+        "title": "Step 9: Over-Fitting",
+        "text": "steps/09_overfit.md"
       }
+
     ],
     "intro": {
       "courseData": "setup.sh",

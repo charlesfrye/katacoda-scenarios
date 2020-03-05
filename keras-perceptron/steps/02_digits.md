@@ -28,9 +28,12 @@ and it is just a list of vectors.
 Notice that the labels come in as numbers,
 in `y_train`,
 but then get transformed into something different,
-called a "one-hot vector".
-How do we read off the class of a digit
+called a "one-hot vector",
+by `to_categorical`.
+How might we read off the class of a digit
 from its one-hot vector?
+Try a few different indexes and see if you can
+find the pattern.
 Why might we encode digit class this way?
 Hint: a `2*2==4`. but something that looks
 twice as much like a two doesn't look more like a four.
